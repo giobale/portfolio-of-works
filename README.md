@@ -11,6 +11,6 @@ Inside, you’ll find:
 
 Each piece reflects my hands-on approach to solving problems, my growth mindset, and my passion for building things that matter.
 
-👉 [Explore the Portfolio](https://portfolio-of-works.pages.dev/){:target="_blank" rel="noopener noreferrer"}
+👉 [Explore the Portfolio](https://portfolio-of-works.pages.dev/)
 
 Thanks for stopping by!
